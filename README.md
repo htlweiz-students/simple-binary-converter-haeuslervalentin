@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/fol1C4ut)
 Schreiben Sie eine Bibliothek, welche eine Klasse zur Konvertierung von Binärzahlen beinhaltet.
 Überlegen Sie sich ein Interface, mit welchem "beliebig" lange Binärzahlen übergeben werden können.
 Die Klasse soll die Zahl dann in einen Dezimalwert ohne Vorzeichen umwandeln.
